@@ -1,0 +1,10 @@
+taskname           = "fixvis"
+vis                =  "el29_spw_one.ms"
+outputvis          =  "el29_spw_one_phs.ms"
+field              =  ""
+refcode            =  ""
+reuse              =  True
+phasecenter        =  "J2000 16h27m09.41315s -24d37m19.19764s"
+distances          =  ""
+datacolumn         =  "all"
+#fixvis(vis="el29_spw_one.ms",outputvis="el29_spw_one_phs.ms",field="",refcode="",reuse=True,phasecenter="J2000 16h27m09.41315s -24d37m19.19764s",distances="",datacolumn="all")
