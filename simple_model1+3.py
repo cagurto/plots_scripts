@@ -1,5 +1,3 @@
-#!/bin/sh
-
 #  new_model_1+3m.py
 #  
 #
